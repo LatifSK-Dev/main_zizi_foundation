@@ -12,7 +12,7 @@ import ProjectDetails from "./components/projectdetails";
 function App() {
   return (
     <Routes>
-      <Route exact path="/" element={<LandingPage />} />
+      <Route exact path="/zizifoundation" element={<LandingPage />} />
       <Route path="/about" element={<Aboutzizi />} />
       <Route path="/join_us" element={<Joinzizi />} />
       <Route path="/our_projects" element={<OurProjects />} />
