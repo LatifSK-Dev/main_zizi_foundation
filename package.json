@@ -1,6 +1,5 @@
 {
   "name": "zizifoundation",
-  "homepage": "https://latifsk.github.io/zizifoundation",
   "version": "0.2.1",
   "private": true,
   "dependencies": {
